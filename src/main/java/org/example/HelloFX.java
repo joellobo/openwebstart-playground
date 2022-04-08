@@ -3,8 +3,8 @@ package org.example;
 import java.awt.image.BufferedImage;
 import java.util.concurrent.atomic.AtomicReference;
 
-import com.github.sarxos.webcam.Webcam;
 
+import com.github.sarxos.webcam.Webcam;
 import javafx.application.Application;
 import javafx.application.Platform;
 import javafx.beans.property.ObjectProperty;
